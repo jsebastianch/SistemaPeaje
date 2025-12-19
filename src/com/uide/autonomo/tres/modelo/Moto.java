@@ -25,7 +25,7 @@ public class Moto extends Vehiculo {
     }
 
     /**
-     * Imprime la informacion de la moto.
+     * Imprime la informacion de la moto.
      */
     @Override
     public void imprimir() {
