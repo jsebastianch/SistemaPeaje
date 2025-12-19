@@ -104,6 +104,6 @@ public class Peaje {
                 Thread.currentThread().interrupt();
             }
         }
-        System.out.println("\nVehículo llegó al peaje: " + vehiculo.getPlaca());
+        System.out.println("\rVehículo llegó al peaje: " + vehiculo.getPlaca());
     }
 }
