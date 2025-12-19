@@ -12,6 +12,19 @@ Este proyecto es un sistema de gestión de peajes desarrollado en Java.
   - `SistemaPeaje.java`
   - `Vehiculo.java`
 
+## Ejecución
+
+Compila y ejecuta la clase `PruebaFiguras` para ver ejemplos de uso de las figuras geométricas:
+
+```powershell
+# Compilar
+javac src/com/uide/autonomo/tres/modelo/*.java src/com/uide/autonomo/tres/SistemaPeaje.java
+
+# Ejecutar
+java -cp src com.uide.autonomo.tres.SistemaPeaje
+```
+
+
 ## Autor
 
 Sebastian Chavez
